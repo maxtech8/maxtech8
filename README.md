@@ -2,7 +2,7 @@
 📫 Reach out on [![mastodon](https://badgen.net/badge/icon/mastodon/purple?icon=mastodon&label)](@MrAniki@mastodon.social) 
 <br>
 
-![Metrics](/github-metrics.svg
+![Metrics](/github-metrics.svg)
 
 ### Web app development
 <a target="_blank" style="margin:5px" href="https://linella.md/ro" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/supermarket.PNG?raw=true" ><br/>React Supermarket Website</kbd></a>
