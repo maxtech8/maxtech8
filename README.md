@@ -19,6 +19,10 @@
 <a target="_blank" style="margin:5px" href="https://wordles.io/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/wordles.png?raw=true" ><br/>NFT Mint Website</kbd></a>
 <a target="_blank" style="margin:5px" href="https://crypto-change.herokuapp.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/crypto.png?raw=true" ><br/>Crypto Swap using best router</kbd></a>
 
+### Betting Bot
+<a target="_blank" style="margin:5px" href="[https://million-tokens.vercel.app/#/](https://t.me/Betbotlive_bot)" ><kbd><img height="120" width="200" 
+![https://million-tokens.vercel.app/#/](https://t.me/Betbotlive_bot)
+
 <details>
 <summary>📈 More Stats</summary>
   
